@@ -1,0 +1,4 @@
+subpixel
+========
+
+Favicon rendering
