@@ -73,7 +73,7 @@ namespace Subpixel
             var boxInfo = TextFitting.FitTextSize(
                 graphics, text, RealEstateSize(), fontName, fontStyle, format);
 
-            DrawDebugBox(graphics, boxInfo);
+            //DrawDebugBox(graphics, boxInfo);
 
             // boxInfo.font is a font object selected based on text fitting params
             graphics.DrawString(text, boxInfo.font, GetBrush(fontColor), TextPosition(boxInfo), format);
