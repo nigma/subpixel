@@ -9,7 +9,7 @@ Favicons with subpixel text rendering::
     ImageMagick/convert.exe icon-16.png icon-32.png favicon.ico
 
 
-Glyph rendeding options
+Glyph rendering options
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 - AntiAlias
